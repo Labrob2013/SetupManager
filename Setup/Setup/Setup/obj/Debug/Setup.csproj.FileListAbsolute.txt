@@ -1,0 +1,8 @@
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\bin\Debug\Setup.exe
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\bin\Debug\Setup.pdb
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.csprojResolveAssemblyReference.cache
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.Form1.resources
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.Properties.Resources.resources
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.csproj.GenerateResource.Cache
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.exe
+d:\Maxim\projects\GitHub\mySetup\SetupManager\Setup\Setup\Setup\obj\Debug\Setup.pdb
